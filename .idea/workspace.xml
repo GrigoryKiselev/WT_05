@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="953bc7f5-da3b-433d-8eb1-07e29849e5d4" name="Default Changelist" comment="" />
+    <list default="true" id="7981ed5d-d214-4c6f-8bd9-df44795d59c4" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,10 +15,18 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1RLFPyyvnX9DUQEBzDaAzkWU2yY" />
+  <component name="ProjectId" id="1RxmxyBIAz1TIZTh06Xt4c2KIfp" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570567148993" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Renderscript" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/WT-5[Library].iml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -32,19 +40,41 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="WT-5[Library]" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="953bc7f5-da3b-433d-8eb1-07e29849e5d4" name="Default Changelist" comment="" />
-      <created>1569438448132</created>
+      <changelist id="7981ed5d-d214-4c6f-8bd9-df44795d59c4" name="Default Changelist" comment="" />
+      <created>1569591342150</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1569438448132</updated>
-      <workItem from="1569438451725" duration="216000" />
+      <updated>1569591342150</updated>
+      <workItem from="1569591347100" duration="1724000" />
+      <workItem from="1570199507403" duration="3504000" />
+      <workItem from="1570438697351" duration="4518000" />
+      <workItem from="1570474159391" duration="3149000" />
+      <workItem from="1570563186866" duration="896000" />
+      <workItem from="1570564161436" duration="2974000" />
     </task>
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16765000" />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />

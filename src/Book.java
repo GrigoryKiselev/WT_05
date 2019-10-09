@@ -1,38 +1,29 @@
-public class Book {
-    private Author author;
-    private String ISBN;
-    private int pages;
-    private String publishDate;
+public class Book extends AbstractBook {
+    private int tome;
 
-    public Author getAuthor() {
-        return author;
+    public Book(String title, String author, int pageCont, int tome) {
+        super(title, author, pageCont);
+        this.tome = tome;
     }
 
-    public void setAuthor(Author author) {
-        this.author = author;
+    public Book() {
+
     }
 
-    public String getISBN() {
-        return ISBN;
+    public int getTome(){
+        return tome;
+    }
+    public void setTome(int tome){
+        this.tome = tome;
     }
 
-    public void setISBN(String ISBN) {
-        this.ISBN = ISBN;
-    }
-
-    public int getPages() {
-        return pages;
-    }
-
-    public void setPages(int pages) {
-        this.pages = pages;
-    }
-
-    public String getPublishDate() {
-        return publishDate;
-    }
-
-    public void setPublishDate(String publishDate) {
-        this.publishDate = publishDate;
+    @Override
+    public String toString() {
+        return "Book{" +
+                "title='" + getTitle() + '\'' +
+                ", author=" + getAuthor() + '\'' +
+                ", pageCount='" + getPageCount() + '\'' +
+                ", tome='" + tome + '\'' +
+                '}';
     }
 }
